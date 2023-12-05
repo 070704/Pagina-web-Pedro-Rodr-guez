@@ -17,9 +17,9 @@ Mi página contiene una página de inicio, una página sobre mi, una página sob
 
 Página de Inicio. 
 
-Para la página de Inicio he creado un documento denominado index.html. Desde la página de inicio puedes llegar al link de las demás páginas.
+Para la página de Inicio he creado un documento denominado index.html Desde la página de inicio puedes llegar al link de las demás páginas.
 
-Para ello he utilizado la etiqueta <nav> que sirve para poder acceder a otra página. Dentro del nav he incluido el siguiente código:
+Para ello he utilizado la etiqueta nav que sirve para poder acceder a otra página. Dentro del nav he incluido el siguiente código:
 
  <ul>
                 <li> <a href="html/sobremi.html">SOBRE MI</a></li>
@@ -37,7 +37,7 @@ La etiqueta 'a' que crea un enlace para dirigirse a las demás páginas dentro d
 Dentro de la etiqueta 'a' hay que destacar el href para insertar el enlace de las otras páginas web. 
 
 En la página de inicio para meterle el texto he utilizado la etiqueta 'header' que sirve para introducir un texto introductorio.
-Dentro del header hay un 'h1' que es el título <h2></h2> El subtítulo y el 'p' donde hay una pequeña descripción.
+Dentro del header hay un 'h1' que es el título 'h2' El subtítulo y el 'p' donde hay una pequeña descripción.
 
 
 Para darle diseño y color a la página he utilizado CSS para ello he creado un archivo dentro de la carpeta CSS denominada style.css. 
@@ -117,7 +117,7 @@ Página de la Asignatura.
 
 En la página de la asignatura he puesto una introducción de la asignatura basándome en la guía docente y en el archivo de la descripción de la asignatura. 
 
-Para el texto he utilizado la etiqueta <h1></h1> para el título  y la  etiqueta <p></p> para el texto introductorio.
+Para el texto he utilizado la etiqueta <h1></h1> para el título  y la  etiqueta 'p' para el texto introductorio.
 
 
 Luego he creado un menú desplegable para poder ver las asignaturas que se han impartido en esta asignatura. 
