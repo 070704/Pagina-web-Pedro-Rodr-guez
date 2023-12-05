@@ -31,13 +31,13 @@ Para ello he utilizado la etiqueta <nav> que sirve para poder acceder a otra pá
                 
             </ul>
 
-La etiqueta <ul> indica una lista que el orden no importa. 
-La etiqueta <li> indica los elementos de la lista. 
-La etiqueta <a> que crea un enlace para dirigirse a las demás páginas dentro de la misma página. 
-Dentro de la etiqueta <a> hay que destacar el href para insertar el enlace de las otras páginas web. 
+La etiqueta <ul></ul> indica una lista que el orden no importa. 
+La etiqueta <li></li> indica los elementos de la lista. 
+La etiqueta <a></a> que crea un enlace para dirigirse a las demás páginas dentro de la misma página. 
+Dentro de la etiqueta <a></a> hay que destacar el href para insertar el enlace de las otras páginas web. 
 
 En la página de inicio para meterle el texto he utilizado la etiqueta <header> que sirve para introducir un texto introductorio.
-Dentro del header hay un <h1> que es el título <h2> El subtítulo y el <p> donde hay una pequeña descripción.
+Dentro del header hay un <h1></h1> que es el título <h2></h2> El subtítulo y el <p></p> donde hay una pequeña descripción.
 
 
 Para darle diseño y color a la página he utilizado CSS para ello he creado un archivo dentro de la carpeta CSS denominada style.css. 
@@ -100,7 +100,7 @@ Tema de la página.
 
 En el tema de la página he hablado del avión de pasajeros más grande del mundo. He escojido este tema porque me gustan los aviones y especialmente este en concreto. Ya que me resulta impresionante que un objeto tan pesado pueda volar. 
 
-Para el diseño de esta página no me he complicado mucho y he utilizado el mismo diseño de la página sobre mí pero he añadido un vídeo del primer vuelo del A380 con  la etiqueta <link>
+Para el diseño de esta página no me he complicado mucho y he utilizado el mismo diseño de la página sobre mí pero he añadido un vídeo del primer vuelo del A380 con  la etiqueta <link></link>
 
 También vi algunos vídeos para que las imágenes estén alineadas con el texto:
 
@@ -117,12 +117,12 @@ Página de la Asignatura.
 
 En la página de la asignatura he puesto una introducción de la asignatura basándome en la guía docente y en el archivo de la descripción de la asignatura. 
 
-Para el texto he utilizado la etiqueta <h1> para el título  y la  etiqueta <p> para el texto introductorio.
+Para el texto he utilizado la etiqueta <h1></h1> para el título  y la  etiqueta <p></p> para el texto introductorio.
 
 
 Luego he creado un menú desplegable para poder ver las asignaturas que se han impartido en esta asignatura. 
 
-Para ello he utilizado la etiqueta <select> y dentro del select he añadido el siguiente comando: 
+Para ello he utilizado la etiqueta <select></select> y dentro del select he añadido el siguiente comando: 
 
 <option selected
         class="selected">Bloque 1</option>
@@ -130,7 +130,7 @@ Para ello he utilizado la etiqueta <select> y dentro del select he añadido el s
         <option>Tema 2: El contexto actual de la informática</option>
         <option>Tema 3: La Ingeniería informática como profesión</option>
 
-La etiqueta <option> he puesto los temas que se dan en los respectivos bloques. 
+La etiqueta <option></option> he puesto los temas que se dan en los respectivos bloques. 
 
 Con el CSS he añadido la etiqueta transform que te permite seleccionar los temas de la asignatura. 
 
@@ -184,10 +184,10 @@ Vídeos que he visto para hacer la página de red:
 
 Página de Contacto. 
 
-He incluido los elementos principales de un  formulario de contacto. Como el <imput> que lo he utilizado para que se pueda escribir dentro de un bloque.
+He incluido los elementos principales de un  formulario de contacto. Como el <imput></imput> que lo he utilizado para que se pueda escribir dentro de un bloque.
 <textarea></textarea> te permite introducir más caracteres y lo he utilizado para que se pueda escribir tu opinión acerca de mi página web. Por último he creado un botón para que se pueda enviar el mensaje. 
 
- Con los estilos Css al botón le he metido un hover para darle un diseño al boton.
+ Con los estilos Css al botón le he metido un hover para darle un diseño al botón.
 
 
 
