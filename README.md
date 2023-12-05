@@ -31,8 +31,8 @@ Para ello he utilizado la etiqueta <nav> que sirve para poder acceder a otra pá
                 
 </ul>
 
-La etiqueta <ul></ul> indica una lista que el orden no importa. 
-La etiqueta <li></li> indica los elementos de la lista. 
+La etiqueta ul indica una lista que el orden no importa. 
+La etiqueta li indica los elementos de la lista. 
 La etiqueta <a></a> que crea un enlace para dirigirse a las demás páginas dentro de la misma página. 
 Dentro de la etiqueta <a></a> hay que destacar el href para insertar el enlace de las otras páginas web. 
 
