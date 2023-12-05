@@ -15,7 +15,7 @@ La página web que he diseñado para la asignatura de fundamentos de la Ingenier
 Mi página contiene una página de inicio, una página sobre mi, una página sobre el tema, una página de red, una página sobre esta asignatura y una página de contacto.
 
 
-<b>Página de Inicio<b/>. 
+<b>Página de Inicio.<b/> 
 
 Para la página de Inicio he creado un documento denominado index.html Desde la página de inicio puedes llegar al link de las demás páginas.
 
