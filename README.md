@@ -185,7 +185,7 @@ Vídeos que he visto para hacer la página de red:
 Página de Contacto. 
 
 He incluido los elementos principales de un  formulario de contacto. Como el <imput> que lo he utilizado para que se pueda escribir dentro de un bloque.
-<textarea> te permite introducir más caracteres y lo he utilizado para que se pueda escribir tu opinión acerca de mi página web. Por último he creado un botón para que se pueda enviar el mensaje. 
+<textarea></textarea> te permite introducir más caracteres y lo he utilizado para que se pueda escribir tu opinión acerca de mi página web. Por último he creado un botón para que se pueda enviar el mensaje. 
 
  Con los estilos Css al botón le he metido un hover para darle un diseño al boton.
 
