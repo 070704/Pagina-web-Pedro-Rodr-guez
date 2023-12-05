@@ -129,8 +129,9 @@ Para ello he utilizado la etiqueta <select></select> y dentro del select he aña
         <option>Tema 1: Antecedentes y perspectivas históricas</option>
         <option>Tema 2: El contexto actual de la informática</option>
         <option>Tema 3: La Ingeniería informática como profesión</option>
+ </option>
 
-La etiqueta <option></option> he puesto los temas que se dan en los respectivos bloques. 
+La etiqueta 'option' he puesto los temas que se dan en los respectivos bloques. 
 
 Con el CSS he añadido la etiqueta transform que te permite seleccionar los temas de la asignatura. 
 
