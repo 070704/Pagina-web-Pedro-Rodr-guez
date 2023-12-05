@@ -29,7 +29,7 @@ Para ello he utilizado la etiqueta <nav> que sirve para poder acceder a otra pá
                 <li> <a href="html/contacto.html">CONTACTO</a></li>        
                 
                 
-            </ul>
+</ul>
 
 La etiqueta <ul></ul> indica una lista que el orden no importa. 
 La etiqueta <li></li> indica los elementos de la lista. 
