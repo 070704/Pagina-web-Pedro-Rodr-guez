@@ -10,7 +10,7 @@ Curso: 1ºB.
 La página web que he diseñado para la asignatura de fundamentos de la Ingenieria informática habla sobre el avión de pasajeros más grande del mundo. Para el desarrollo de esta página he buscado información en internet (especialmente en youtube) y también he pedido ayuda a alguno de mis compañeros. 
 
 
-<b>Descripción de mi página web</b>.
+<b>Descripción de mi página web.</b>
 
 Mi página contiene una página de inicio, una página sobre mi, una página sobre el tema, una página de red, una página sobre esta asignatura y una página de contacto.
 
