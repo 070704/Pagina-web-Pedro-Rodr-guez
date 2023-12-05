@@ -10,12 +10,12 @@ Curso: 1ºB.
 La página web que he diseñado para la asignatura de fundamentos de la Ingenieria informática habla sobre el avión de pasajeros más grande del mundo. Para el desarrollo de esta página he buscado información en internet (especialmente en youtube) y también he pedido ayuda a alguno de mis compañeros. 
 
 
-Descripción de mi página web.
+<b>Descripción de mi página web</b>.
 
 Mi página contiene una página de inicio, una página sobre mi, una página sobre el tema, una página de red, una página sobre esta asignatura y una página de contacto.
 
 
-Página de Inicio. 
+<b>Página de Inicio<b/>. 
 
 Para la página de Inicio he creado un documento denominado index.html Desde la página de inicio puedes llegar al link de las demás páginas.
 
@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=ndD1zldnApU&t=365s&pp=ygUtY29tbyBoYWNlciB1bmEgcG
 
 
 
-Página Sobre mí
+<b>Página Sobre mí</b>
 
 
 En la página sobre mi se encuentra una pequeña descripción sobre mí. Como se puede observar no hay ningún enlace a ninguna red social porque puede acceder gente desconocida. 
@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=Rqo_1TV7wQs&pp=ygUNYWJvdXQgbWUgcGFnZQ%3D%3D
 
 
 
-Tema de la página.
+<b>Tema de la página</b>.
 
 En el tema de la página he hablado del avión de pasajeros más grande del mundo. He escojido este tema porque me gustan los aviones y especialmente este en concreto. Ya que me resulta impresionante que un objeto tan pesado pueda volar. 
 
@@ -112,7 +112,7 @@ https://www.youtube.com/watch?v=lgX38fNbxmw&pp=ygUjaG93IHR1IHB1dCBpbWFnZXMgd2l0a
 
 
 
-Página de la Asignatura. 
+<b>Página de la Asignatura</b>. 
 
 
 En la página de la asignatura he puesto una introducción de la asignatura basándome en la guía docente y en el archivo de la descripción de la asignatura. 
@@ -147,7 +147,7 @@ https://www.youtube.com/watch?v=OesmxT-kGSM&t=21s
 
 
 
-Página de Red. 
+<b>Página de Red</b>. 
 
 
 Con la página red podrás acceder a las páginas de algunos compañeros he escojido estás tres páginas de mis compañeros porque los avatares que he utilizado se parecen a ellos especialmente la del medio. 
@@ -182,7 +182,7 @@ Vídeos que he visto para hacer la página de red:
 
 
 
-Página de Contacto. 
+<b>Página de Contacto</b>. 
 
 He incluido los elementos principales de un  formulario de contacto. Como el 'imput' que lo he utilizado para que se pueda escribir dentro de un bloque.
 'textarea' te permite introducir más caracteres y lo he utilizado para que se pueda escribir tu opinión acerca de mi página web. Por último he creado un botón para que se pueda enviar el mensaje. 
@@ -194,7 +194,7 @@ He incluido los elementos principales de un  formulario de contacto. Como el 'im
 
 
 
-Problemas en el desarrollo de mi página web. 
+<b>Problemas en el desarrollo de mi página web</b>. 
 
 
 El primer problema que tube al principio es que no sabía que poner en mi página web y de que tema podía hablar. En un principio hiba hablar de coches pero opte por la opción del avión porque es un tema que domino mejor que los coches. 
@@ -221,7 +221,7 @@ Como se podrá observar otro de los problemas que me va a costar -0.5 puntos ha 
 
 
 
-Conclusiones del Trabajo. 
+<b>Conclusiones del Trabajo</b>. 
 
 
 
