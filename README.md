@@ -31,17 +31,17 @@ Para ello he utilizado la etiqueta <nav> que sirve para poder acceder a otra pá
                 
 </ul>
 
-La etiqueta ul indica una lista que el orden no importa. 
-La etiqueta li indica los elementos de la lista. 
-La etiqueta <a></a> que crea un enlace para dirigirse a las demás páginas dentro de la misma página. 
-Dentro de la etiqueta <a></a> hay que destacar el href para insertar el enlace de las otras páginas web. 
+La etiqueta 'ul' indica una lista que el orden no importa. 
+La etiqueta 'li' indica los elementos de la lista. 
+La etiqueta 'a' que crea un enlace para dirigirse a las demás páginas dentro de la misma página. 
+Dentro de la etiqueta 'a' hay que destacar el href para insertar el enlace de las otras páginas web. 
 
-En la página de inicio para meterle el texto he utilizado la etiqueta <header> que sirve para introducir un texto introductorio.
-Dentro del header hay un <h1></h1> que es el título <h2></h2> El subtítulo y el <p></p> donde hay una pequeña descripción.
+En la página de inicio para meterle el texto he utilizado la etiqueta 'header' que sirve para introducir un texto introductorio.
+Dentro del header hay un 'h1' que es el título <h2></h2> El subtítulo y el 'p' donde hay una pequeña descripción.
 
 
 Para darle diseño y color a la página he utilizado CSS para ello he creado un archivo dentro de la carpeta CSS denominada style.css. 
-Para que los estilos CSS se pudiesen ver en mi página web he puesto debajo de la etique <title> el siguiente comando: 
+Para que los estilos CSS se pudiesen ver en mi página web he puesto debajo de la etique 'title' el siguiente comando: 
 <link rel="stylesheet" href=".\CSS\style.css"> Importante poner el punto que sirve para indicar la carpeta de los archivos CSS. 
 
 Para poder darle color al texto he ayadido el class="" que sirve para indicar elementos especificos para luego editarlos en CSS. 
@@ -184,8 +184,8 @@ Vídeos que he visto para hacer la página de red:
 
 Página de Contacto. 
 
-He incluido los elementos principales de un  formulario de contacto. Como el <imput></imput> que lo he utilizado para que se pueda escribir dentro de un bloque.
-<textarea></textarea> te permite introducir más caracteres y lo he utilizado para que se pueda escribir tu opinión acerca de mi página web. Por último he creado un botón para que se pueda enviar el mensaje. 
+He incluido los elementos principales de un  formulario de contacto. Como el 'imput' que lo he utilizado para que se pueda escribir dentro de un bloque.
+'textarea' te permite introducir más caracteres y lo he utilizado para que se pueda escribir tu opinión acerca de mi página web. Por último he creado un botón para que se pueda enviar el mensaje. 
 
  Con los estilos Css al botón le he metido un hover para darle un diseño al botón.
 
