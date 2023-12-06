@@ -32,6 +32,14 @@ body
     margin: 0 auto;
     background-color: rgb(255, 33, 66);
 }
+.icons {
+    width: 50%;
+    min-width: 180px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+  }
 .heading p{
     font-size: 18px;
     color: #fff;
