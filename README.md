@@ -224,7 +224,13 @@ Como se podrá observar otro de los problemas que me va a costar -0.5 puntos ha 
 
 <b>Conclusiones del Trabajo</b>. 
 
-En cuanto a las conclusiones que saco después de haber hecho mi página web es que he aprendido mucho sobre el lenguaje html y CSS sobretodo html. También he conseguido aprender 
+En cuanto a las conclusiones que saco después de haber hecho mi página web es que he aprendido mucho sobre el lenguaje html y CSS sobretodo html. 
+He de reconocer que para la página web me he copiado de algunos sitios de internet pero me ha ayudado a entender y a aprender muchas etiquetas de html y de CSS. 
+También gracias a mi fallos a la hora de la publicación de mi página web y a la hora de cargar los estilos CSS he podido ayudar a mis compañeros que les sucedía lo mismo.
+
+
+
+
 
 
 
