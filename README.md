@@ -41,10 +41,10 @@ Dentro del header hay un 'h1' que es el título 'h2' El subtítulo y el 'p' dond
 
 
 Para darle diseño y color a la página he utilizado CSS para ello he creado un archivo dentro de la carpeta CSS denominada style.css. 
-Para que los estilos CSS se pudiesen ver en mi página web he puesto debajo de la etique 'title' el siguiente comando: 
+Para que los estilos CSS se pudiesen ver en mi página web he puesto debajo de la etiqueta 'title' el siguiente comando: 
 <link rel="stylesheet" href=".\CSS\style.css"> Importante poner el punto que sirve para indicar la carpeta de los archivos CSS. 
 
-Para poder darle color al texto he ayadido el class="" que sirve para indicar elementos especificos para luego editarlos en CSS. 
+Para poder darle color al texto he añadido el class="" que sirve para indicar elementos especificos para luego editarlos en CSS. 
 
 Con el CSS he puesto el fondo de un color utilizando blackgraund-color y lo he introducido dentro del .container. 
 
