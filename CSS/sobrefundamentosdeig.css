@@ -6,6 +6,13 @@ body{
     background-color: #670be8;
   }
   header h1{
+   width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    text-align: center;
+    margin: 20px auto;
     font-size: 50px;
     color: #fff;
     margin-bottom: 25px;
