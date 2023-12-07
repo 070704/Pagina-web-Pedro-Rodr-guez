@@ -36,6 +36,7 @@
     text-decoration: underline;
     cursor: pointer;
     transition: all 0.3s ease 0s;
+    background-color: #fff;    
   }
   ul li:hover{
     background-color: rgb(255, 33, 66);
