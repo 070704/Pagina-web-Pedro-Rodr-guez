@@ -178,7 +178,10 @@ Tambíen para que desde la página web se pueda acceder a las otras páginas de 
 
 Vídeos que he visto para hacer la página de red:
 
-
+https://www.youtube.com/watch?v=H_64n7gY3h0&t=382s&pp=ygUpaG93IHRvIG1ha2Ugb3VyIHRlYW0gcGFnZSBpbiBodG1sIGFuZCBjc3M%3D
+https://www.youtube.com/watch?v=4_QEig_Mucw&t=32s&pp=ygUpaG93IHRvIG1ha2Ugb3VyIHRlYW0gcGFnZSBpbiBodG1sIGFuZCBjc3M%3D
+https://www.youtube.com/watch?v=4q8AvrLrLAM&t=6s&pp=ygUpaG93IHRvIG1ha2Ugb3VyIHRlYW0gcGFnZSBpbiBodG1sIGFuZCBjc3M%3D
+https://www.youtube.com/watch?v=H-DvSPRnKWQ&t=187s
 
 
 
