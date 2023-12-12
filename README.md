@@ -117,7 +117,7 @@ https://www.youtube.com/watch?v=lgX38fNbxmw&pp=ygUjaG93IHR1IHB1dCBpbWFnZXMgd2l0a
 
 En la página de la asignatura he puesto una introducción de la asignatura basándome en la guía docente y en el archivo de la descripción de la asignatura. 
 
-Para el texto he utilizado la etiqueta <h1></h1> para el título  y la  etiqueta 'p' para el texto introductorio.
+Para el texto he utilizado la etiqueta 'h1' para el título  y la  etiqueta 'p' para el texto introductorio.
 
 
 Luego he creado un menú desplegable para poder ver las asignaturas que se han impartido en esta asignatura. 
