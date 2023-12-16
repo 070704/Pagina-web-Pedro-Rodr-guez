@@ -29,6 +29,12 @@ body{
       font-size: 18px;
       line-height: 1.5;
       color: #fff;
+        
+  }
+.Subpagina{
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 35px;
   }
 select.selected{
     position: absolute;
